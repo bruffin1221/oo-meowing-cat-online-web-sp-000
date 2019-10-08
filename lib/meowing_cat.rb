@@ -1,4 +1,4 @@
 class Cat
-  attr_accessor :name :action
+  attr_accessor :name 
 
 end
